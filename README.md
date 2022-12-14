@@ -13,8 +13,8 @@ of my technical and management skills. Experienced in
 working on various projects through remote collaboration.</h4>
 </br>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek07788&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek07788" /> </p>
-<img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 💼 My Portfolio https://shivam-m-7.github.io 
 
@@ -29,10 +29,14 @@ working on various projects through remote collaboration.</h4>
 - 📧 Ask me about **Backend**
 
 - ❓ How to reach me **shivammmishra7@gmail.com**
+ <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 
 - 📄 Resume [Resume](https://drive.google.com/file/d/1ZdvMmK1NpO-0FWocUAsZ4OKz9upmiW68/view?usp=sharing)
 
 - ⚡ Fun fact **I am Sarcastic!**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
