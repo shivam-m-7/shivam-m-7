@@ -31,7 +31,7 @@ working on various projects through remote collaboration.</h4>
 - ❓ How to reach me **shivammmishra7@gmail.com**
  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 
-- 📄 Resume [Resume]([https://drive.google.com/file/d/1ZdvMmK1NpO-0FWocUAsZ4OKz9upmiW68/view?usp=sharing](https://drive.google.com/file/d/1ao6-aOPwDB9PsXI3kbNKJtfaR6fTQS09/view?usp=sharing))
+- 📄[Resume](https://drive.google.com/file/d/1ao6-aOPwDB9PsXI3kbNKJtfaR6fTQS09/view?usp=sharing)
 
 - ⚡ Fun fact **I am Sarcastic!**
 
