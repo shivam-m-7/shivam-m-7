@@ -22,7 +22,9 @@ working on various projects through remote collaboration.</h4>
 
 - 🤝 Group Project  [asos - Clone](https://github.com/shivam-m-7/asos) 
 
-- 👨‍💻 Individual Project [Have'nt done any yet]()
+- 🤝 Group Project  [Prcato - Clone](https://github.com/shivam-m-7/Practo.com-Clone)
+
+- 👨‍💻 Individual Project [Shopping Ganga](https://shopganga.onrender.com/)
 
 - 👨‍💻 I’m currently learning **MERN STACK**
 
