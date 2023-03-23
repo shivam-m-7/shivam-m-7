@@ -30,6 +30,7 @@ working on various projects through remote collaboration.</h4>
 
     👨‍💻 [Shopping Ganga](https://shopganga.onrender.com/)
     
+    👨‍💻 [AI Chat App (Using OpenAI) ](https://aiwebchat.netlify.app/)
     
 
 - 🌱 I’m currently learning **TypeScript**
