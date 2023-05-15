@@ -32,7 +32,7 @@ working on various projects through remote collaboration.</h4>
     
     👨‍💻 [RavenEYE](https://raveneye.netlify.app/)    
     
-    👨‍💻 [AI Chat App (Using OpenAI) ](https://aiwebchat.netlify.app/)
+    👨‍💻 [AI Telegram Bot ](https://t.me/AI_SM_bot)
     
 
 - 🌱 I’m currently learning **TypeScript**
