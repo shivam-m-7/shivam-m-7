@@ -37,6 +37,8 @@ working on various projects through remote collaboration.</h4>
 
 - 🌱 I’m currently learning **TypeScript**
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
+
+
 - 📧 Ask me about **React,Express, Mongo and Node**
 
 - ❓ How to reach me **shivammmishra7@gmail.com**
