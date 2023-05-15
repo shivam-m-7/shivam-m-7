@@ -14,7 +14,7 @@ working on various projects through remote collaboration.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+  <picture><img align="right" src="https://i.postimg.cc/NGPwSvvL/back-end-developer.gif" width = 400px></picture>
 
 - 💼 [My Portfolio ](https://shivam-m-7.vercel.app/)
 
@@ -24,25 +24,23 @@ working on various projects through remote collaboration.</h4>
 
     🤝 [asos - Clone](https://github.com/shivam-m-7/asos) 
 
-    🤝 [Prcato - Clone](https://github.com/shivam-m-7/Practo.com-Clone)
+    🤝 [Practo - Clone](https://github.com/shivam-m-7/Practo.com-Clone)
 
 - My Individual Projects
 
     👨‍💻 [Shopping Ganga](https://shopganga.onrender.com/)
     
-    👨‍💻 [RavenEYE](https://raveneye.netlify.app/)
-    
-    👨‍💻 [E-Commerce](https://shiva-commerce.netlify.app)
+    👨‍💻 [RavenEYE](https://raveneye.netlify.app/)    
     
     👨‍💻 [AI Chat App (Using OpenAI) ](https://aiwebchat.netlify.app/)
     
 
 - 🌱 I’m currently learning **TypeScript**
-
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 - 📧 Ask me about **React,Express, Mongo and Node**
 
 - ❓ How to reach me **shivammmishra7@gmail.com**
- <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
+ 
 
 - 📄[Resume](https://drive.google.com/file/d/1ao6-aOPwDB9PsXI3kbNKJtfaR6fTQS09/view?usp=sharing)
 
