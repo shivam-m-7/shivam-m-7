@@ -14,7 +14,7 @@ working on various projects through remote collaboration.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
-  <picture><img align="right" src="https://github.com/shivam-m-7/shivam-m-7/blob/main/back-end-developer.gif" width = 400px></picture>
+  <picture><img align="right" src="https://github.com/shivam-m-7/shivam-m-7/blob/main/ezgif.com-gif-maker%20(5).gif" width = 400px></picture>
 
 - 💼 [My Portfolio ](https://shivam-m-7.vercel.app/)
 
